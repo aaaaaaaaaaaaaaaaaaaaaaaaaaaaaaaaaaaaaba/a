@@ -11,7 +11,7 @@ ab ab
 ab ab
 ab a ab
 ababba ababba
-abba abba
+abba dad
 abba abba
 abba a abba
 abc abc
@@ -29,7 +29,10 @@ ba a ba
 ba ba ba
 baa baa
 baa a baa
-baba abba abba
+baba dad dad
+bad bad
+bad bad
+bad bad
 bb bb
 bbb bbb
 bbc bbc
