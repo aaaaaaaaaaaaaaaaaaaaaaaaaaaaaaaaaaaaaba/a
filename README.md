@@ -3,21 +3,16 @@ a a
 a a
 a a
 aa aa
-aa a aa
 aaa aaa
-aaa a aaa
 aaaaaaaaa aaaaaaaaa
-aaaaaaaaa a aaaaaaaaa
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaba aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaba
 aac aac
 ab ab
 ab ab
-ab a ab
 ababba ababba
 abba dad
 abba abba
-abba a abba
-abc abc
+abc abc d
 abc abc
 abc abc
 abc abc
@@ -34,10 +29,8 @@ b b
 b b
 b a b
 ba ba
-ba a ba
 ba ba ba
 baa baa
-baa a baa
 baba dad dad
 bad bad
 bad bad
@@ -56,7 +49,6 @@ ca ca
 cab cab
 cab cab
 cab cab
-cab a cab
 caca caca
 cad cad
 cbb cbb
