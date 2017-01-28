@@ -51,3 +51,9 @@ cc cc
 cc cc
 ccc ccc
 d d
+d d
+dab dab
+dab dab
+dab dab
+dad abba
+dd dd
