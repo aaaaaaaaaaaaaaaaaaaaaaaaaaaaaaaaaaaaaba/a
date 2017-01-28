@@ -1,4 +1,5 @@
 a a
+a a
 aa aa
 aa a aa
 aaa aaa
@@ -21,18 +22,31 @@ ac ac
 ac ac
 acc acc
 b b
+b b
 b a b
 ba ba
 ba a ba
 ba ba ba
 baa baa
 baa a baa
-baba baba
+baba abba abba
+bb bb
+bbb bbb
+bbc bbc
+bbc bbc
 bc bc
 bc bc
+c c
 c c
 ca ca
 ca ca
 cab cab
+cab cab
+cab cab
 cab a cab
 caca caca
+cbb cbb
+cc cc
+cc cc
+cc cc
+ccc ccc
