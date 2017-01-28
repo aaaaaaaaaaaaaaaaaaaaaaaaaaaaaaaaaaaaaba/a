@@ -6,3 +6,4 @@ aaa a aaa
 aaaaaaaaa aaaaaaaaa
 aaaaaaaaa a aaaaaaaaa
 b b
+b a b
