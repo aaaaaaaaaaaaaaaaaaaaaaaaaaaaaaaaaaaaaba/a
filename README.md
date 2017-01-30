@@ -12,7 +12,7 @@ ab ab
 ababba ababba
 abba dad
 abba abba
-abc abc d e
+abc abc d e f
 abc abc
 abc abc
 abc abc
@@ -42,6 +42,7 @@ babe babe
 bad bad
 bad bad
 bad bad
+bae bae
 bb bb
 bbb bbb
 bbc bbc
@@ -86,10 +87,14 @@ ebb ebb
 ed ed
 ee ee
 eff eff
+eff eff
 efface efface
 f f
-fad fad
+fab fab
+fab fab
 face face
+fad fad
+fade fade
 fae fae
 fee fee
 feed feed
