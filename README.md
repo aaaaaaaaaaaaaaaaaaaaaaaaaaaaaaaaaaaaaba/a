@@ -23,7 +23,7 @@ ache bad
 ack ack
 ad ad
 ad ad
-ad ad
+ad a dead
 add add
 add add
 ag ag
@@ -37,6 +37,7 @@ aha aha
 ai ai
 aid aid
 ale ale
+all all
 b abc
 b b
 b b
@@ -56,6 +57,7 @@ baggage baggage
 baggage baggage
 bah bah
 bake bake cake
+ball ball
 bb bb
 bbb if bad bbb
 bbc bbc
@@ -76,6 +78,7 @@ beef beef
 beg beg
 bic bic
 big big
+bike bike
 c abc
 c c
 c c
@@ -90,13 +93,20 @@ caca bad
 cad bad dad
 cage cage
 cake bake cake
+call call
 cbb cbb
 cbb cbb
 cc cc
 cc cc
 cc cc
 ccc ccc
+cel cel
+cell cell
+cell cell
+cell cell
 chad chad
+child child
+child fake dad
 d abc d
 d d
 dab dab
@@ -111,10 +121,14 @@ dd dd
 dead dead
 deck deck
 deck deck
-deaf bad head
+deaf bad able head
+dell dell
+dell dell
+dial dial
 dick dick
 dick dick
 dig dig
+dill dill
 e abc d e
 e if e big big big
 each be if
@@ -128,12 +142,13 @@ f abc e f
 fab fab
 fab fab
 face face
-face face
+face head
 fad fad
 fade ebb
 fae fae
 fag bad
 fag fag
+fail bad
 fake bad
 fee fee
 feed feed
@@ -141,16 +156,22 @@ feed feed
 fig fig
 fig fig
 g abc f g
-gag gag
+gag gag ha ha
 gag gag
 gag gag
 gag head gag
 gee gee
 h abc g h
-ha ha
+ha if gag ha ha
 hag be bad hag
+hail hail
+hail hail
+hall hall
 head head
+heal heal
 heed be heed
+heel heel
+heel heel
 i abc h i
 i i
 i i
@@ -164,11 +185,43 @@ jack jack
 jack jack
 jag jag
 jagged if jagged jab
+jail jail
 jib jib
 jif jif
 k abc j k
 ka ka
 kkk bad kkk
 l abc k l
+lab lab
+lab lab
 label label
+lac lac
+lac lac
+lace lace
+lack lack
 lad lad
+ladle ladle
+lead lead
+lead lead
+lead lead
+lede lede
+libel libel
+liable liable
+lice lice
+lick lick
+lie lie
+lie lie
+like like
+m abc l m
+male male
+mammal mammal
+mead mead
+mead mead
+meal meal
+meal meal
+mede mede
+mic mic
+mil mil
+mile mile
+mill mill
+milk milk
