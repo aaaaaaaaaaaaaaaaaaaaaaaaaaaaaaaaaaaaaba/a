@@ -29,6 +29,7 @@ ad ad
 ad ad
 add add
 add add
+af af
 b b
 b b
 b b
@@ -52,6 +53,8 @@ bead bead
 bed bed
 bee bee
 bee bee
+beef beef
+beef beef
 c c
 c c
 c c
@@ -61,7 +64,7 @@ cab cab
 cab cab
 cab cab
 caca caca
-cad cad
+cad bad dad
 cbb cbb
 cc cc
 cc cc
@@ -73,12 +76,21 @@ dab dab
 dab dab
 dab dab
 dad abba
-dada dada
+dada aaaaaaaaa
 dd dd
 dead dead
+deaf deaf
 e e
 e e
 ebb ebb
 ed ed
 ee ee
+eff eff
+efface efface
 f f
+fad fad
+face face
+fae fae
+fee fee
+feed feed
+feed feed
