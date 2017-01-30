@@ -12,7 +12,7 @@ ab ab
 ababba ababba
 abba dad
 abba abba
-abc abc d e f
+abc abc d e f g h i
 abc abc
 abc abc
 abc abc
@@ -24,7 +24,7 @@ acc acc
 ace ace
 ace ace
 ace ace
-ache ache
+ache bad
 ad ad
 ad ad
 ad ad
@@ -39,6 +39,8 @@ aged aged
 ah ah
 aha aha
 aha aha
+ai ai
+aid aid
 b b
 b b
 b b
@@ -107,7 +109,7 @@ dead dead
 deaf deaf
 e e
 e e
-each each
+each be if
 ebb ebb
 ed ed
 ee ee
@@ -133,3 +135,12 @@ gag gag
 gag gag
 gee gee
 h h
+ha ha
+hag hag
+head head
+heed heed
+i i
+i i
+i i
+ice ice
+if if
