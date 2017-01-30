@@ -24,6 +24,7 @@ acc acc
 ace ace
 ace ace
 ace ace
+ache ache
 ad ad
 ad ad
 ad ad
@@ -35,6 +36,9 @@ ag ag
 age age
 aged aged
 aged aged
+ah ah
+aha aha
+aha aha
 b b
 b b
 b b
@@ -51,6 +55,7 @@ bae bae
 bag bag
 baggage baggage
 baggage baggage
+bah bah
 bb bb
 bbb bbb
 bbc bbc
@@ -58,10 +63,13 @@ bbc bbc
 bc bc
 bc bc
 be be
+beach beach
+beach beach
 bead bead
 bed bed
 bee bee
 bee bee
+beech beech
 beef beef
 beef beef
 beg beg
@@ -82,6 +90,8 @@ cc cc
 cc cc
 cc cc
 ccc ccc
+chad chad
+chad chad
 d d
 d d
 dab dab
@@ -97,6 +107,7 @@ dead dead
 deaf deaf
 e e
 e e
+each each
 ebb ebb
 ed ed
 ee ee
