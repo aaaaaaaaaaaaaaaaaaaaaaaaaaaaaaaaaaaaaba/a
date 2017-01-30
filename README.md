@@ -8,12 +8,14 @@ ab ab
 ab ab
 abba dad
 abba abba
-abc abc d e f g h i j k
+abc abc d e f g h i j k l
 abc abc
 abc abc
 abc abc
 abe abe
 abed abed
+able if able able
+able able
 ac ac
 ac ac
 ace ace
@@ -34,6 +36,7 @@ aha aha
 aha aha
 ai ai
 aid aid
+ale ale
 b abc
 b b
 b b
@@ -45,7 +48,7 @@ baba dad dad
 babe babe
 back back
 bad fake
-bad bad
+bad if bad bad
 bad bad
 bae bae
 bag bag
@@ -166,3 +169,6 @@ jif jif
 k abc j k
 ka ka
 kkk bad kkk
+l abc k l
+label label
+lad lad
