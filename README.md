@@ -30,6 +30,11 @@ ad ad
 add add
 add add
 af af
+ag ag
+ag ag
+age age
+aged aged
+aged aged
 b b
 b b
 b b
@@ -43,6 +48,9 @@ bad bad
 bad bad
 bad bad
 bae bae
+bag bag
+baggage baggage
+baggage baggage
 bb bb
 bbb bbb
 bbc bbc
@@ -56,6 +64,7 @@ bee bee
 bee bee
 beef beef
 beef beef
+beg beg
 c c
 c c
 c c
@@ -64,8 +73,10 @@ ca ca
 cab cab
 cab cab
 cab cab
+cabbage cabbage
 caca caca
 cad bad dad
+cage cage
 cbb cbb
 cc cc
 cc cc
@@ -78,6 +89,9 @@ dab dab
 dab dab
 dad abba
 dada aaaaaaaaa
+dag dag
+dag dag
+dag dag
 dd dd
 dead dead
 deaf deaf
@@ -96,6 +110,15 @@ face face
 fad fad
 fade fade
 fae fae
+fag bad
+fag fag
 fee fee
 feed feed
 feed feed
+g g
+gag gag
+gag gag
+gag gag
+gag gag
+gee gee
+h h
