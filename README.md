@@ -1,15 +1,11 @@
 a a
 a a
 a a
-a a
 aa aa
 aaa aaa
-aaaaaaaaa aaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaba aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaba
 aac aac
 ab ab
 ab ab
-ababba ababba
 abba dad
 abba abba
 abc abc d e f g h i
@@ -20,9 +16,6 @@ abe abe
 abed abed
 ac ac
 ac ac
-acc acc
-ace ace
-ace ace
 ace ace
 ache bad
 ad ad
@@ -30,7 +23,6 @@ ad ad
 ad ad
 add add
 add add
-af af
 ag ag
 ag ag
 age age
@@ -66,7 +58,7 @@ bc bc
 bc bc
 be be
 beach beach
-beach beach
+beach be beach ed
 bead bead
 bed bed
 bee bee
@@ -75,6 +67,7 @@ beech beech
 beef beef
 beef beef
 beg beg
+big big
 c c
 c c
 c c
@@ -84,7 +77,7 @@ cab cab
 cab cab
 cab cab
 cabbage cabbage
-caca caca
+caca bad
 cad bad dad
 cage cage
 cbb cbb
@@ -93,20 +86,20 @@ cc cc
 cc cc
 ccc ccc
 chad chad
-chad chad
 d d
 d d
 dab dab
 dab dab
 dab dab
 dad abba
-dada aaaaaaaaa
+dada if if if if if if if if
 dag dag
 dag dag
 dag dag
 dd dd
 dead dead
-deaf deaf
+deaf bad head
+dig dig
 e e
 e e
 each be if
@@ -128,19 +121,28 @@ fag fag
 fee fee
 feed feed
 feed feed
+fig fig
+fig fig
 g g
 gag gag
 gag gag
 gag gag
-gag gag
+gag head
 gee gee
 h h
 ha ha
-hag hag
+hag be bad
 head head
-heed heed
+heed be
 i i
 i i
 i i
 ice ice
-if if
+if if if if
+j j
+j i
+jab if jab bad ache
+jag jag
+jagged jagged
+jib jib
+jif jif
