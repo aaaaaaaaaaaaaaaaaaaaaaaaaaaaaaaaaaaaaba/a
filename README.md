@@ -12,13 +12,18 @@ ab ab
 ababba ababba
 abba dad
 abba abba
-abc abc d
+abc abc d e
 abc abc
 abc abc
 abc abc
+abe abe
+abed abed
 ac ac
 ac ac
 acc acc
+ace ace
+ace ace
+ace ace
 ad ad
 ad ad
 ad ad
@@ -32,6 +37,7 @@ ba ba
 ba ba ba
 baa baa
 baba dad dad
+babe babe
 bad bad
 bad bad
 bad bad
@@ -42,6 +48,10 @@ bbc bbc
 bc bc
 bc bc
 be be
+bead bead
+bed bed
+bee bee
+bee bee
 c c
 c c
 c c
@@ -65,4 +75,7 @@ dab dab
 dad abba
 dada dada
 dd dd
-e
+dead dead
+e e
+ebb ebb
+ed ed
