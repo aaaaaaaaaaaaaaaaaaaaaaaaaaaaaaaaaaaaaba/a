@@ -1,14 +1,14 @@
 a abc
+a fake bad
 a a
-a a
-aa aa
-aaa aaa
+aa a fake bad
+aaa aa fake bad
 aac aac
 ab ab
 ab ab
 abba dad
 abba abba
-abc abc d e f g h i j k l
+abc abc d e f g h i j k l m
 abc abc
 abc abc
 abc abc
@@ -16,9 +16,9 @@ abe abe
 abed abed
 able if able able
 able able
-ac ac
-ac ac
-ace ace
+ac ice mill
+ac if jack able
+ace game a
 ache bad
 ack ack
 ad ad
@@ -44,16 +44,17 @@ b b
 b a b
 ba ba
 ba ba ba
-baa baa
+baa baa milk
 baba dad dad
-babe babe
+babe fake bad face
+back back
 back back
 bad fake
 bad if bad bad
 bad bad
-bae bae
+bae babe
 bag bag
-baggage baggage
+baggage bag bag bag
 baggage baggage
 bah bah
 bake bake cake
@@ -89,9 +90,9 @@ cab cab
 cab cab
 cab cab
 cabbage cabbage
-caca bad
-cad bad dad
-cage cage
+caca bad ick
+cad bad male
+cage bad jail
 cake bake cake
 call call
 cbb cbb
@@ -109,10 +110,10 @@ child child
 child fake dad
 d abc d
 d d
+dab fake big
 dab dab
 dab dab
-dab dab
-dad abba
+dad abba male
 dada if if if if if if if if
 dag dag
 dag dag
@@ -160,37 +161,43 @@ gag gag ha ha
 gag gag
 gag gag
 gag head gag
+game game
 gee gee
+gem gem
 h abc g h
 ha if gag ha ha
 hag be bad hag
 hail hail
-hail hail
+hail ice
 hall hall
 head head
-heal heal
-heed be heed
+headache head ache
+headache bad idea
+heal fake ache
+heed fake bad
 heel heel
-heel heel
+heel fake head
 i abc h i
 i i
-i i
+i j ac
 ice ice
+ick bad
+idea head idea
 if if if if
 j abc i j
-j i
+j i if ac
 jab if jab bad ache
-jack jack
-jack jack
-jack jack
+jack jack if ac
+jack jack cab
+jack male label
 jag jag
 jagged if jagged jab
-jail jail
+jail bad cage
 jib jib
 jif jif
 k abc j k
 ka ka
-kkk bad kkk
+kkk bad male male
 l abc k l
 lab lab
 lab lab
@@ -200,14 +207,14 @@ lac lac
 lace lace
 lack lack
 lad lad
-ladle ladle
+ladle big ladle
 lead lead
 lead lead
 lead lead
 lede lede
-libel libel
+libel bad libel
 liable liable
-lice lice
+lice head lice
 lick lick
 lie lie
 lie lie
@@ -220,8 +227,10 @@ mead mead
 meal meal
 meal meal
 mede mede
+meme meme
 mic mic
 mil mil
 mile mile
 mill mill
 milk milk
+n abc m n
